@@ -17,7 +17,6 @@ Define any abbreviations, domain terms, or project-specific jargon used in this 
 
 | **Word** | **Description** |
 |----------|-----------------|
-| **CR** | "Content Ready" — the backend API layer of Phoenix |
 | **[Term]** | [What it means in this context] |
 
 ## Assumptions
